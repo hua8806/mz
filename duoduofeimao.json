@@ -13,20 +13,6 @@
       "ext": "./lib/豆瓣推荐.js"
     },
     {
-      "key": "csp_绿豆",
-      "name": "🐼┃绿豆┃影视",
-      "type": 3,
-      "api": "csp_Lvdou",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": "1",
-      "ext": {
-        "server": "http://s.weixine.net/api.php/app/",
-        "mackey": "6JLF1OWhgEnMexAs|6CrRdTxr2qXj9258"
-      }
-    },
-    {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
       "type": 3,
